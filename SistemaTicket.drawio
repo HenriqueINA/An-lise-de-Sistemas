@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.6">
+  <diagram name="Página-1" id="vMQSSaTcYY6V1nrAZ7DE">
+    <mxGraphModel dx="2013" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-1" value="DEPARTAMENTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-2" value="CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-3" value="TIPOCLIENTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-4" value="TECNICO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-5" value="MSGS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-6" value="TICKET" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-7" value="TIPO_URGENCIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-8" value="TIPO_PROBLEMA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-9" value="NomeDepartamento" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-10" value="CodDepartamento" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry y="20" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-11" value="NumTecnico" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-12" value="NomeTecnico" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-13" value="EmailTecnico" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-14" value="PassTecnico" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-15" value="PassCliente" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-16" value="EmailCliente" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-17" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;NomeCliente&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRfdBu5Wavy_u2uvLHI-18" value="TeleCliente" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
